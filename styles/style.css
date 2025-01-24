@@ -47,17 +47,17 @@ nav ul li a{
 
 }
 
-.image-container{
+/* .image-container{
     max-width: 500px;
     height: 500px;
     border: 2px solid #f7f0ff;
     border-radius: 50%;
-}
+} */
 .banner-image{
     max-width: 440px;
     height: 414px;
     padding-top: 30px;
-    background-color: #f7f0ff;
+    /* background-color: #f7f0ff; */
     border-radius: 50%;
     margin-top: 16px;
    
@@ -149,30 +149,24 @@ nav ul li a{
     }
 
 
-
-
-
-
-
-
     .hidden{
         display: none;
     }
-}
+
+    .first-icon{
+        list-style: none;
+        text-decoration: none;
+    }
+
   
+}
 
 
 
 
 
 
-
-
-
-
-
-
-/* hide */
-/* .hide{
+/* check */
+.hide{
     display: none;
-} */
+}
